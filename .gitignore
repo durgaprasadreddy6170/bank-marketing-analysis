@@ -1,0 +1,34 @@
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Power BI local files
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code workspace settings
+.vscode/
+
+# Windows system files
+desktop.ini
+Thumbs.db
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
