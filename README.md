@@ -30,6 +30,17 @@
 
 ---
 
+## Project Architecture
+
+The project follows an end-to-end data analytics workflow:
+
+1. **Data Source:** UCI Bank Marketing dataset containing 45,211 customer records.
+2. **Data Preparation:** Python scripts clean and preprocess the raw dataset.
+3. **SQL Analysis:** MySQL is used for customer segmentation, subscription analysis and campaign performance evaluation.
+4. **Data Visualization:** Power BI presents KPIs, customer insights and campaign performance through interactive dashboards.
+5. **Business Insights:** Analytical findings are translated into recommendations for improving marketing campaign strategies.
+
+
 ## Project Overview
 
 This project analyzes a bank's direct marketing campaign data to understand customer subscription behaviour and evaluate campaign effectiveness.
