@@ -1,5 +1,17 @@
 # Bank Marketing Analysis | SQL, Python & Power BI
 
+## Dashboard Preview
+
+### Campaign Overview
+![Campaign Overview](screenshots/Campaign%20Overview.png)
+
+### Customer Analysis
+![Customer Analysis](screenshots/Customer%20Analysis.png)
+
+### Campaign Effectiveness
+![Campaign Effectiveness](screenshots/Campaign%20Effectiveness.png)
+
+
 ## Project Overview
 
 This project analyzes a bank's direct marketing campaign data to understand customer subscription behaviour and evaluate campaign effectiveness.
