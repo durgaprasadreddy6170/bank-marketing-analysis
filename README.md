@@ -11,6 +11,24 @@
 ### Campaign Effectiveness
 ![Campaign Effectiveness](screenshots/Campaign%20Effectiveness.png)
 
+---
+
+## Table of Contents
+
+1. [Dashboard Preview](#dashboard-preview)
+2. [Project Overview](#project-overview)
+3. [Business Objectives](#business-objectives)
+4. [Tools & Technologies](#tools--technologies)
+5. [Dataset](#dataset)
+6. [Project Workflow](#project-workflow)
+7. [Key Performance Indicators](#key-performance-indicators)
+8. [Key Findings](#key-findings)
+9. [Power BI Dashboard](#power-bi-dashboard)
+10. [Business Recommendations](#business-recommendations)
+11. [Important Analytical Considerations](#important-analytical-considerations)
+12. [Project Deliverables](#project-deliverables)
+
+---
 
 ## Project Overview
 
